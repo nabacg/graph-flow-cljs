@@ -1,0 +1,19 @@
+{
+    "name": "graph-flow",
+    "version": "0.0.1",
+    "private": true,
+    "devDependencies": {
+        "readline-sync": "^1.4.10",
+        "shadow-cljs": "2.11.17"
+    },
+    "dependencies": {
+        "query-string": "^6.13.8",
+        "react": "16.14.0",
+        "react-dom": "^16.14.0",
+        "react-flow-renderer": "^9.6.7",
+        "react-refresh": "0.8.1",
+        "react-select": "^4.1.0",
+        "dagre": "^0.8.5",
+        "localforage": "^1.9.0"              
+    }
+}
